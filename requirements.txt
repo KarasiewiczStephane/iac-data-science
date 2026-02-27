@@ -2,6 +2,8 @@
 python-dotenv>=1.0
 pydantic-settings>=2.0
 pyyaml>=6.0
+pandas>=2.0
+pandera>=0.18
 
 # Dev
 pytest>=7.0
