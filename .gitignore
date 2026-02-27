@@ -16,6 +16,7 @@ data/raw/
 *.csv
 *.parquet
 !data/sample/
+!data/sample/*.csv
 
 # Models
 *.pkl
@@ -23,6 +24,10 @@ data/raw/
 *.pt
 *.h5
 *.onnx
+models/
+
+# Reports
+reports/
 
 # IDE
 .vscode/
