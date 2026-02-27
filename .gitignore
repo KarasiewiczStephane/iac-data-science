@@ -35,5 +35,13 @@ Thumbs.db
 # Logs
 *.log
 
+# Coverage
+.coverage
+htmlcov/
+coverage.xml
+
+# Pytest
+.pytest_cache/
+
 # Task Master (keep local)
 .taskmaster/
