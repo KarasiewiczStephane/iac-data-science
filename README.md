@@ -1,6 +1,6 @@
-# iac-data-science
+# Insurance Analytics & Claims
 
-> Insurance Analytics & Claims — Data Science Pipeline
+> End-to-end insurance claim risk classification pipeline — data validation, model training, REST API serving, and CLI orchestration.
 
 ## Overview
 
@@ -118,6 +118,11 @@ Running the demo (`make demo`) on the sample insurance claims dataset:
 | Recall | 0.98 |
 | F1 Score | 0.98 |
 | CV Mean | 0.97 |
+
+
+## Author
+
+**Stéphane Karasiewicz** — [skarazdata.com](https://skarazdata.com) | [LinkedIn](https://www.linkedin.com/in/stephane-karasiewicz/)
 
 ## License
 
